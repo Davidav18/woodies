@@ -49,3 +49,346 @@ margin-bottom: 120px;
     font-size: 1.5rem;
     font-weight: 600;
 }
+
+/* Cuchara*/
+.container-cucharas{
+width: auto;
+position:absolute;
+left: 1300px;
+}
+
+/* LOgito + How to custom */
+.container-loguito{
+    position: absolute;
+    left: 250;
+}
+
+.text-gray-opacity{
+    color: rgba(34,34,34,0.1);
+    font-size: 4rem;
+    flex-basis: auto;
+}
+.linea{
+  position: relative;
+  left:630px ;
+  width: 20%;
+ top: 240px;
+}
+
+.text-categories{
+    width: 50%;
+    font-size: 80px;
+    position: relative;
+    left: 1050px;
+    top: 170px;
+    color: rgba(34,34,34,0.1);
+        font-size: 4rem;
+        flex-basis: auto;
+    }
+
+  .container-imagenes{
+      align-items: center;
+      display: flex;
+      justify-content: space-around;
+      padding: 200px;
+      margin-top: -250px;
+      margin-left: 10px;
+  }
+
+  .button{
+      position: relative;
+      left: 825px;
+     bottom: 200px;
+    background: #DAA520;
+    text-decoration: none;
+    color:#ffffff ;
+    padding: 7px;
+    border-radius: 4px;
+    transition: 0.5s all ease;
+    font-size: 30px;
+  }
+
+
+  .container-what-we-have{
+      position: relative;
+      left: 350px;
+     bottom: 150px;
+  }
+
+.CATEGORIES{
+    
+        width: 50%;
+        font-size: 80px;
+        position: relative;
+        left: 1130px;
+     bottom: 230px;
+        color: rgba(34,34,34,0.1);
+            font-size: 4rem;
+            flex-basis: auto;   
+
+
+
+
+}.mesa{
+position: absolute;
+top:80px;
+width: 10px;
+}
+
+.rectangulo1{
+ 
+    bottom: 150px;
+    position: relative;
+    left: 370px;
+   
+}
+
+.shop-now{
+
+    position: relative;
+   left: 150px;
+   margin-bottom:black;
+  bottom: 50px;
+  background: transparent;
+  text-decoration: none;
+  color:black ;
+  padding: 7px;
+  border-radius: 4px;
+  transition: 0.5s all ease;
+  font-size:20px;
+
+}
+.Desk{
+    position: relative;
+    bottom: 425px;
+    font-size: 30px;
+    left: 10px;
+}
+   
+
+
+.rectangulo2{
+  
+    bottom: 620px;
+    position: relative;
+    left: 800px;
+ 
+   
+}
+
+.silla{
+    position: absolute;
+    top:80px;
+    width: 10px;  
+    left: 30px;
+
+}
+
+.Chair{
+    position: absolute;
+ bottom: 390px;
+ font-size: 30px;
+ left: 10px;
+
+}
+
+.rectangulo3{
+ 
+    bottom: 1070px;
+    position: relative;
+    left: 1260px;
+}
+
+.platos{
+    position: absolute;
+    top:80px;
+    width: 10px;  
+    left: 30px;
+
+}
+.kitchenware{
+    position: absolute;
+    bottom: 370px;
+    font-size: 30px;
+    left: 10px;
+}
+
+.rectangulo4{
+   
+    bottom: 1070px;
+    position: relative;
+    left: 400px;
+}
+.librero{
+    position: absolute;
+    top:80px;
+    width: 10px;  
+    left: 50px;
+}
+.Bookshelf{
+    position: absolute;
+    bottom: 340px;
+    font-size: 30px;
+    left: 10px;
+}
+
+.rectangulo5{
+  
+    bottom: 1490px;
+    position: relative;
+    left: 820px;
+}
+.radio{
+    position: absolute;
+    top:140px;
+    width: 10px;  
+    left: 20px;
+}
+.electronics{
+    position: absolute;
+    bottom: 370px;
+    font-size: 30px;
+    left: 10px;
+}  
+
+.whatsay{
+    position: relative;
+    bottom: 690px;
+    left: 200px;
+
+}
+.testimony{
+    width: 50%;
+    font-size: 80px;
+    position: relative;
+    left: 750px;
+ bottom: 70px;
+    color: rgba(34,34,34,0.1);
+        font-size: 5rem;
+        flex-basis: auto;   
+
+}
+.partebaja{
+   position: absolute;
+  
+
+}
+.sala{
+position: relative;
+left: 400px;
+bottom: 1200px;
+}
+.comedor{
+position: absolute;
+bottom: 0px;
+left: 300px;
+}
+.experiencia{
+    position: absolute;
+    left: 400px;
+    bottom: 20px;
+}
+.flecha1{
+    position: absolute;
+bottom: -50px;
+}
+.barrita{
+    position: absolute;
+    left: 110px;
+    bottom: -30px;
+}
+.previus{
+    position: absolute;
+    left: 40px;
+    bottom: -20px;
+    font-size: 15px;
+    color: C4C4C4;
+}
+
+.flecha2{
+    position: absolute;
+left: 250px;
+bottom: 30px;
+}
+.next{
+    position: absolute;
+    font-size: 15px;
+    right: 50px;
+    bottom: -20px;
+}
+
+.textos{
+    position: relative;    
+    font-size: 20px;
+    bottom: 600px;
+    left: 400px;
+}
+.email{
+   position: absolute; 
+   left: 700px;
+   bottom: 30px;
+   border-radius: 10%;
+   color: #DAA520;
+}
+form{
+    width: 25%;
+    margin: 20px;
+    padding:20px;
+}
+input, textarea{
+    margin-bottom: 20px;
+    padding: 5px;
+    
+}
+input[type="button"]{
+    background: #DAA520;
+    color: #ffffff;
+    border-radius: 5%;
+}
+
+.formu{
+    position: relative;
+    left: 600px;
+    bottom: 100px;
+}
+.hl{
+    position: relative;
+   width: 900px;
+    left: 410px;
+    bottom: 1100px;
+}
+.textf{
+  
+font-size: 15px;
+position: relative;
+left: 200px;
+bottom: 30px;
+word-spacing: 50px;
+}
+ .textforni{
+     position: relative;
+   font-size: 15px;
+   word-spacing: 73px;
+ }
+.info{
+    font-size: 20;
+    position: relative;
+    bottom: 190px;
+    font-size: 15px;
+
+}
+.escritorio{
+    position: relative;
+    left: 1010px;
+    bottom: 760px;
+    
+}
+.wood{
+    position: relative;
+    font-size: 10px;
+    text-align: center;
+    bottom: 100px;
+}
+
+
+
